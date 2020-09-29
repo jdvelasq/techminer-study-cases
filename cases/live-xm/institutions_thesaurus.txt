@@ -1,0 +1,1600 @@
+Aalto University FIN
+    department of computer science, aalto university, espoo, finland
+    department of electrical engineering and automation, school of electrical engineering, aalto university, espoo, fi-00076, finland
+Aarhus University DNK
+    department of business development and technology, centre for energy technologies, aarhus university, aarhus bss, birk centerpark 15, herning, dk-7400, denmark
+Adana Science and Technology University TUR
+    department of electrical and electronics engineering, adana science and technology university, adana, turkey
+Ai Technology Department JPN
+    ai technology department, tokyo electric power company, japan
+Ain Shams University EGY
+    department of electrical power and machines, faculty of engineering, ain shams university, cairo, egypt
+Air Force Research Laboratory Munitions Directorate USA
+    air force research laboratory munitions directorate, eglin air force base, fl  32542, united states
+Air Institute ESP
+    air institute, iot digital innovation hub, carbajosa de la sagrada, salamanca, 37188, spain
+Akkal Haj Moussa Ag Akhamouk University of Tamanrasset DZA
+    department of matter sciences, faculty of sciences and technology, energies and materials research laboratory, amin el-akkal haj moussa ag akhamouk university of tamanrasset, tamanrasset, algeria
+Al Hussein Technical University JOR
+    al hussein technical university, tafila technical university, jordan
+Aligarh Muslim University IND
+    department of computer science, aligarh muslim university, aligarh, india
+    department of computer engineering, aligarh muslim university, aligarh, india
+    centre of advanced research in electrified transportation, aligarh muslim university, aligarh, india
+Anhui Electric Power Company Economic and Technical Research Institute of State Grid CHN
+    anhui electric power company economic and technical research institute of state grid, hefei, 230022, china
+Anna University IND
+    institute for energy studies, anna university, chennai, 600025, india
+Ansan College of Technology KOR
+    department of electrical engineering, ansan college of technology, ansan, south korea
+Aristotle University of Thessaloniki GRC
+    aristotle university of thessaloniki, thessaloniki, 54124, greece
+Arizona State University USA
+    school of electrical, computer and energy engineering, arizona state university, united states
+    school of electrical, computer and energy engineering, arizona state university, tempe, az  85287, united states
+    department of electrical computer and energy engineering, arizona state university, tempe, az, united states
+    arizona state university, tempe, az, united states
+Asia University TWN
+    institute of innovation and circular economy, asia university, taichung, taiwan
+Aston University GBR
+    school of engineering and applied science, aston university, birmingham, b4 7et, united kingdom
+Austrian Association for Energy Economics AUT
+    austrian association for energy economics (aaee/iaee), tu vienna, vienna, austria
+Austrian Institute of Technology AUT
+    austrian institute of technology (ait), vienna, austria
+    ait - austrian institute of technology, energy department, 1210, vienna, austria
+Bahcesehir University TUR
+    management department, bahcesehir university, besiktas, istanbul, 34349, turkey
+Beihang University CHN
+    school of economics & management, beihang university, beijing, 100191, china
+Beijing Jiaotong University CHN
+    beijing jiaotong university, school of electrical engineering, beijing, china
+    school of electrical engineering, beijing jiaotong university, beijing, 100044, china
+Beijing Normal University CHN
+    business school, beijing normal university, beijing, 100875, china
+Beijing University of Chemical Technology CHN
+    college of information science & technology, beijing university of chemical technology, beijing, 100029, china
+    school of economics and management, beijing university of chemical technology, beijing, 100029, china
+Benedictine University USA
+    goodwin school of business, benedictine university, lisle, il  60532, united states
+Berkeley Shenzhen Institute CHN
+    tsinghua-berkeley shenzhen institute, shenzhen, 518055, china
+Birla Institute of Technology IND
+    department of electrical and electronics engineering, birla institute of technology, mesra, ranchi, india
+Bolton Institute of Higher Education GBR
+    bolton institute of higher education, united kingdom
+Boston University USA
+    center for polymer studies and department of physics, boston university, boston, ma  02215, united states
+Bradley Department of Electrical and Computer Engineering USA
+    bradley department of electrical and computer engineering, virginia tech, united states
+Brunel University GBR
+    school of engineering and design, brunel university, uxbridge, london ub8 3ph, united kingdom
+Budge Budge Institute of Technologywest Bengal IND
+    electrical engineering department, budge budge institute of technologywest bengal, india
+Business and International Studies GRC
+    energy and environmental policy laboratory, school of economics, business and international studies, university of piraeus, piraeus, 18532, greece
+Bwx Technologies USA
+    bwx technologies, inc., 109 ramsey place, lynchburg, va  24501, united states
+California State University USA
+    california state university, department of electrical and computer engineering, los angeles, united states
+Cambridge Center for Advanced Research In Energy Efficiency In Singapore Ltd SGP
+    cambridge center for advanced research in energy efficiency in singapore ltd., 1 create way139602, singapore
+Cardiff University GBR
+    school of engineering, cardiff university, cardiff, cf24 3aa, united kingdom
+Carlow Institute of Technology IRL
+    carlow institute of technology, carlow, ireland
+Carnegie Institution for Science USA
+    department of global ecology, carnegie institution for science, palo alto, ca  94305, united states
+Carnegie Mellon University Rwanda USA
+    carnegie institute of technology, carnegie mellon university rwanda, united states
+Carnegie Mellon University USA
+    department of engineering and public policy, carnegie mellon university, pittsburgh, pa  15213, united states
+Carnegie Mellon Universitypa USA
+    school of electrical and computer engineering, carnegie mellon universitypa, united states
+Catalonia Institute for Energy Research ESP
+    catalonia institute for energy research (irec), 08930 sant adria de besos, jardins de les dones de negre 1, barcelona, spain
+Center for Energy and Environment IND
+    center for energy and environment, mnit jaipur, rajasthan, india
+Center for National Resource Economy Studies CHN
+    center for national resource economy studies, peking university, beijing, 100871, china
+Central Queensland University AUS
+    central queensland university, school of engineering and technology, melbourne, australia
+    central queensland university, school of engineering and technology, sydney, australia
+    central queensland university, rockhampton, qld 4702, australia
+Central Research Institute of Electric Power Industry JPN
+    information systems department, central research institute of electric power industry, japan
+Central South University CHN
+    school of automation, central south university, changsha, hunan, 410083, china
+Centre de Developpement Des Energies Renouvelables DZA
+    unite de recherche en energies renouvelables en milieu saharien, urerms, centre de developpement des energies renouvelables, cder, adrar, algeria
+Charles University Prague CZE
+    department of mathematics and physics, charles university prague, ke karlovu 2027/3, praha 2, 12116, czech republic
+Chengdu Univ of Technol CHN
+    chengdu univ. of technol., chengdu 610059, china
+China Electric Power Research Institute CHN
+    china electric power research institute, beijing, 100192, china
+    china electric power research institute, metrology institute, beijing, china
+    china electric power research institute, department of power automation, beijing, china
+    power automation department, china electric power research institute, nan jing, china
+    dept. of power automation, china electric power research institute, cepri, beijing, china
+    china electric power research institute, china
+China Jiliang University CHN
+    key laboratory of electromagnetic wave information technology and metrology of zhejiang province, college of information engineering, china jiliang university, hangzhou, 310018, china
+China Medical University TWN
+    department of medical research, china medical university, taichung, taiwan
+China University of Geosciences CHN
+    school of economics and management, china university of geosciences, wuhan, 430074, china
+China University of Mining and Technology CHN
+    school of mechatronic engineering, china university of mining and technology, xuzhou, 221116, china
+Chinese Academy of Sciences CHN
+    shanghai advanced research institute, chinese academy of sciences, 100 haike rd, shanghai, 201210, china
+    centre for energy and environmental policy research, institute of policy and management, chinese academy of sciences, beijing, 100190, china
+    state key lab of urban and regional ecology, research center for eco-environmental sciences, chinese academy of sciences, p.o. box 2871, beijing 100085, china
+    graduate university of the chinese academy of sciences, beijing 100039, china
+Chongqing University CHN
+    chongqing university, chongqing, china
+Chonnam National University KOR
+    shcool of electrical, electronic communication, and computer engineering, chonnam national university, 50, daehak-ro, yeosu, 59626, south korea
+Chungnam National University KOR
+    department of electronics engineering, chungnam national university, 99 daehak-ro, yuseong-gu, daejeon, 34134, south korea
+Chuvash State University RUS
+    chuvash state university, ekra research and production enterprise ltd, cheboksary, russian federation
+City University GBR
+    energy systems group, city university, london, united kingdom
+    dept. of electrical, electronic and information engineering, city university, united kingdom
+Clemson University USA
+    department of automotive engineering, clemson university, united states
+College of William and Mary USA
+    college of william and mary, united states
+Columbia University USA
+    columbia university, united states
+    columbia university, new york, ny, united states
+Comillas Pontifical University ESP
+    iit - institute for research in technology, comillas pontifical university, madrid, spain
+Computer Technology Institute and Press Diophantus GRC
+    computer technology institute and press 'diophantus' (cti), rio-patras, greece
+Comsats University Islamabad PAK
+    department of electrical and computer engineering, comsats university islamabad, wah campus, pakistan
+    department of electrical and computer engineering, comsats university islamabad, attock campus, pakistan
+    comsats university islamabad, islamabad, 44000, pakistan
+    comsats university islamabad, department of computer science, islamabad, 44000, pakistan
+    department of computer science, comsats university islamabad, islamabad, 44000, pakistan
+    department of computer science, comsats university islamabad, wah campus, wah cantonment, 47040, pakistan
+    comsats university islamabad, computer science department, islamabad, 44000, pakistan
+Cornell University USA
+    school of electrical and computer engineering, cornell university, ithaca, ny  14850, united states
+Council On Energy IND
+    council on energy, environment and water, india
+Covenant University NGA
+    department of chemical engineering, covenant university, otta, ogun state, nigeria
+Covenant University Ota NGA
+    department of electrical and information engineering, covenant university ota, nigeria, nigeria
+Coventry University GBR
+    coventry university, united kingdom
+Cranfield University GBR
+    department of energy and power, cranfield university, bedfordshiremk43 0al, united kingdom
+Curtin University Sustainability Policy Institute AUS
+    curtin university sustainability policy institute (cusp), kent street, bentley, perth, western australia  6102, australia
+Czech Technical University CZE
+    software testing intelligent lab (still), department of computer science, faculty of electrical engineering czech technical university, karlovo nam. 13, praha 2, 121 35, czech republic
+Dalarna University SWE
+    dalarna university, departments of energy technology and computer engineering, falun, 79188, sweden
+    dalarna university, department of computer engineering, falun, 79188, sweden
+    dalarna university, falun, 79188, sweden
+Dalhousie University CAN
+    dalhousie university, p.o.box 1000, halifax, ns b3j 2x4, canada
+Darmstadt University of Applied Sciences DEU
+    department of energy economics, darmstadt university of applied sciences, germany
+Delhi Technological University IND
+    department of electrical engineering, delhi technological university, delhi, india
+    department of electrical engineering, delhi technological university, new delhi, india
+Democritus University of Thrace GRC
+    department of economics, democritus university of thrace, greece
+Department Energy DEU
+    department energy, fraunhofer iosb-ast, ilmenau, germany
+Department of Applied Economics and Operations Research NOR
+    sintef technology and society, department of applied economics and operations research, 7465 trondheim, norway
+Department of Customer Studies BRA
+    department of customer studies, copel, curitiba, brazil
+Department of Electrical  and  Electronics Engineering IND
+    department of electrical & electronics engineering, nitk surathkal, india
+Department of Electrical Engineering IND
+    department of electrical engineering, iit (bhu), varanasi, india
+    department of electrical engineering, knit, sultanpur, india
+    department of electrical engineering, nit, silchar, assam 788010, india
+Department of Electrical Engineering IRN
+    energy systems laboratory, division of power and energy management, department of electrical engineering, 424 hafez ave, tehran, iran
+Department of Electrical and Computer Engineering USA
+    department of electrical and computer engineering, penn state behrend, erie, pa  16563-1701, united states
+Department of Electrical and Electronics Engineering IND
+    department of electrical and electronics engineering, kiet, ghaziabad, india
+Department of Information Technology IRN
+    department of information technology, shahid montazeri power plant, isfahan, iran
+Department of International Business Management KOR
+    department of international business management, woosong university, 171, dongdaejeon-ro, dong-gu, daejeon, 34606, south korea
+Department of International Economics ITA
+    department of international economics, institutions and development, catholic university, italy
+Dept of Research Center CHN
+    dept. of research center, harbin turbine limited company, harbin, china
+Distribution Company BIH
+    distribution company, vilenicka bb 72295, novi travnik, bosnia and herzegovina
+Distribution Network Dispatch Department CHN
+    distribution network dispatch department, state grid anhui electrical power company, he fei, china
+Dongbei University of Finance and Economics CHN
+    school of statistics, dongbei university of finance and economics, dalian, 116025, china
+Dr Br Ambedkar National Institute of Technology IND
+    department of electronics and communication engineering, dr br ambedkar national institute of technology, jalandhar, india
+Dr Mgr Educational and Research Institute IND
+    eee/cse dept. center for electronics, automation and industrial research, dr. mgr educational and research institute, maduravoyal, chennai-95, india
+    eee dept. center for electronics, automation and industrial research, dr. mgr educational and research institute, maduravoyal, chennai-95, india
+Duke Energy Corporation USA
+    duke energy corporation, 550 s tryon st, charlotte, nc, united states
+East China Power Dispatching Control Center CHN
+    east china power dispatching control center, shanghai, china
+Ece Department at Illinois Institute of Technology USA
+    ece department at illinois institute of technology, chicago, united states
+Economic  and  Technology Research Institute of State Grid Shandong Electric Power Company CHN
+    economic & technology research institute of state grid shandong electric power company, jinan, shandong province  250021, china
+Edith Cowan University AUS
+    school of engineering, edith cowan university, 270 joondalup dr., joondalup, wa6027, australia
+Eindhoven University NLD
+    department of electrical engineering, eindhoven university, eindhoven, netherlands
+Eindhoven University of Technology NLD
+    department of electrical engineering, eindhoven university of technology, eindhoven, mb, 5600, netherlands
+    department of electrical engineering, eindhoven university of technology, eindhoven, netherlands
+    eindhoven university of technology, department of electrical engineering, electrical energy systems, eindhoven, 5600 mb, netherlands
+Electric Energy Research Center BRA
+    electric energy research center - cepel, energy optimization and environment department, av. horacio macedo, 354, 21941-911 ilha do fundao, rio de janeiro rj, brazil
+Electric Power Research Institute CHN
+    electric power research institute, state grid liaoning electric power supply co. ltd, shenyang, 110006, china
+    electric power research institute, shanghai municipal electric power company of state grid, shanghai, 200437, china
+Electric Power Research Institute USA
+    electric power research institute, palo alto, ca, united states
+    electric power research institute, knoxville, tn, united states
+Electric Power Research Institute of Guangdong Power Grid Co CHN
+    electric power research institute of guangdong power grid co., ltd, guangzhou, china
+Electric Power Supply Company CHN
+    state grid shanghai shinan, electric power supply company, china
+Electrical Engineering Institute of Porto PRT
+    gecad, knowledge engineering and decision-support research center, electrical engineering institute of porto (isep/ipp), rua dr. antonio bernardino de almeida, 431, 4200-072 porto, portugal
+Electrical and Energetic Engineering Sapienza University ITA
+    department of astronautics, electrical and energetic engineering (diaee) sapienza university, via eudossiana 18, rome, 00184, italy
+Energy Institute Hrvoje Pozar HRV
+    energy institute hrvoje pozar, savska cesta 163, 10 001, zagreb, croatia
+Engineering College IND
+    ece dept., skr, engineering college, nazrathpeth, chennai, india
+Engineering Department JPN
+    utility power systems, engineering department, toshiba corporation, japan
+European Institute for Energy Research DEU
+    department of energy planning and geosimulation, european institute for energy research, germany
+Faculty of Engineering of University of Porto PRT
+    feup, faculty of engineering of the university of porto, portugal
+Faculty of Organization and Informatics HRV
+    faculty of organization and informatics, pavlinska 2, varazdin, croatia
+Federal University of Abc BRA
+    federal university of abc, fabc, santo-andre-sao-paulo, brazil
+Federal University of Juiz de Fora BRA
+    department of electrical energy, federal university of juiz de fora, juiz de fora city, brazil
+Federal University of Parana BRA
+    department of electrical engineering, federal university of parana, curitiba, brazil
+Federal University of Santa Maria BRA
+    federal university of santa maria, electrical engineering graduate program, santa maria, brazil
+    federal university of santa maria, polytechnic college, santa maria, brazil
+    ppgee, center for energy and environment - ceema, federal university of santa maria-ufsm, santa maria, rs, brazil
+Fraunhofer Center for International Business and Knowledge Economy DEU
+    energy management and energy economics unit, fraunhofer center for international business and knowledge economy, leipzig, germany
+Fraunhofer Institute for Wind Energy and Energy System Technology DEU
+    fraunhofer institute for wind energy and energy system technology, kassel, germany
+Frederick University CYP
+    frederick university, dept. electrical engineering, nicosia, cyprus
+Fuzhou University CHN
+    college of mathematics and computer science, fuzhou university, fuzhou, china
+    college of electrical engineering and automation, fuzhou university, fuzhou, 350116, china
+G H Raisoni Institute of Engineering and Technology IND
+    department of electrical engineering, g. h. raisoni institute of engineering and technology, wagholi, pune, india
+G L Bajaj Institute of Engg and Technology IND
+    g l bajaj institute of engg. and technology, gr. noida, u.p., india
+Gansu Meteorological Service Centre CHN
+    gansu meteorological service centre, lanzhou, 730020, china
+Gazi University TUR
+    department of computer engineering, gazi university, ankara, turkey
+Gaziantep University TUR
+    gaziantep university, department of industrial engineering, gaziantep, 27000, turkey
+Ge Power Company USA
+    ge power company, united states
+George Washington University USA
+    department of electrical and computer engineering, george washington university, washington, dc  20052, united states
+Georgia Institute of Technology USA
+    school of aerospace engineering, georgia institute of technology, atlanta, ga  30332, united states
+    georgia institute of technology, atlanta, ga  30332, united states
+    school of public policy, georgia institute of technology, search technology, inc., norcross, atlanta, ga  30092, united states
+Ghent University BEL
+    ghent university, belgium
+    internet based communication networks and services (ibcn), ghent university - iminds, ghent, belgium
+Gheorghe Asachi Technical University ROU
+    'gheorghe asachi' technical university, power engineering department, iasi, romania
+Glasgow Caledonian University GBR
+    school of engineering and built environment, glasgow caledonian university, glasgow, united kingdom
+Grid Planning and Research Center CHN
+    grid planning and research center, guangdong power grid corporation, csg, guangzhou, china
+Guangdong University of Finance and Economics CHN
+    school of business administration, guangdong university of finance and economics, guangzhou, 510320, china
+Guizhou University CHN
+    school of electrical engineering, guizhou university, guiyang, 550025, china
+Gurunanak College of Engineering and Technology IND
+    gurunanak college of engineering and technology, nagpur, india
+Hanbat National University KOR
+    department of chemical and biological engineering, hanbat national university, dongseo-daero 125, yuseong-gu, daejeon, south korea
+Hangzhou Dianzi University CHN
+    school of automation engineering, hangzhou dianzi university, hangzhou, china
+    automation school, hangzhou dianzi university, hangzhou, 310018, china
+Hanyang University KOR
+    department of electronic engineering, hanyang university, ansan, 15588, south korea
+Harbin Engineering University CHN
+    harbin engineering university, china
+    college of automation, harbin engineering university, harbin, 150001, china
+Harbin Institute of Technology CHN
+    dept. of industrial engineering, harbin institute of technology, harbin, china
+Harbin University of Science and Technology Rongcheng Campus CHN
+    department of software engineering, harbin university of science and technology rongcheng campus, rongcheng, shandong, 264300, china
+Harvard University USA
+    harvard university, united states
+Hasanuddin University IDN
+    department of electrical engineering, hasanuddin university, makassar 90245, indonesia
+Hebei University of Economics and Business CHN
+    hebei university of economics and business, institute of social governance, shijiazhuang, china
+Helwan University EGY
+    faculty of engineering at helwan, helwan university, egypt
+Hengyang Power Supply Company CHN
+    hengyang power supply company, state grid human electric power company limited, hengyang, china
+Hitachi Research Laboratory JPN
+    hitachi research laboratory, hitachi ltd, japan
+Ho Chi Minh Power Company VNM
+    ho chi minh power company (evnhcmc), ho chi minh city, viet nam
+Hohai University CHN
+    college of mechanical and electrical engineering, hohai university, changzhou, 213022, china
+    school of business, hohai university, nanjing, 211100, china
+Hong Kong Polytechnic University CHN
+    department of civil and environmental engineering, hong kong polytechnic university, hong kong, hong kong
+    dept. of electrical engineering, hong kong polytechnic university, hong kong, hong kong
+Houari Boumediene University of Sciences and Technology DZA
+    department of ecology and environment, faculty of biological science, houari boumediene university of sciences and technology, bab ezzouar, algeria
+Huazhong Univ of Sci and Technol CHN
+    huazhong univ. of sci. and technol., wuhan 430074, hubei province, china
+Huazhong University of Science and Technology CHN
+    state key laboratory of advanced electromagnetic engineering and technology, school of electrical and electronic engineering, huazhong university of science and technology, wuhan, 430074, china
+    school of management, huazhong university of science and technology, wuhan, 430074, china
+    school of energy and power engineering, huazhong university of science and technology, wuhan, china
+    school of electrical and electronic engineering, huazhong university of science and technology, wuhan, china
+    state key laboratory of advanced electromagnetic engineering and technology, huazhong university of science and technology, wuhan 430074, china
+Hubei University of Economics CHN
+    school of business administration, hubei university of economics, wuhan, 430205, china
+    research center of hubei logistics development, hubei university of economics, wuhan, 430205, china
+Hunan Electric Power Corporation CHN
+    hunan electric power corporation, changsha 410007, china
+Ibn Khaldoun University DZA
+    laboratory of electrical and computer engineering (l2gegi), ibn khaldoun university, tiaret, 14000, algeria
+Icame Department FRA
+    icame department, edf r & d, clamart, 92140, france
+Idaho National Laboratory USA
+    idaho national laboratory, idaho falls, id, united states
+    idaho national laboratory, 2525 n. fremont ave, idaho falls, id  83415, united states
+    idaho national laboratory, 2525 fremont ave, idaho falls, id  83415, united states
+Ik Gujral Punjab Technical University IND
+    i.k. gujral punjab technical university, dept. of electrical engineering, jalandhar, india
+Illinois Institute of Technology USA
+    stuart school of business, illinois institute of technology, chicago, il  60661, united states
+    ece department, illinois institute of technology, chicago, il 60616, united states
+Imperial College London GBR
+    department of electrical and electronic engineering, imperial college london, south kensington, london, sw7 2az, united kingdom
+Imperial College Londonsw7 2Az GBR
+    centre for process systems engineering and department of chemical engineering, imperial college londonsw7 2az, united kingdom
+    centre for process systems engineering and centre for environmental policy, imperial college londonsw7 2az, united kingdom
+Imperial College Londonsw72Az GBR
+    centre for process systems engineering and department of chemical engineering, imperial college londonsw72az, united kingdom
+    centre for process systems engineering and centre for environmental policy, imperial college londonsw72az, united kingdom
+Incheon National University KOR
+    department of industrial and management engineering, incheon national university, 119 academy-ro, yeonsu-gu, incheon, 407-772, south korea
+Indian Institute of Engineering IND
+    electrical engineering department, indian institute of engineering, science and technology, shibpur, howrah, west bengal, india
+Indian Institute of Technology Delhi IND
+    electrical engineering, indian institute of technology delhi, india
+Indian Institute of Technology IND
+    indian institute of technology, tirupathi, india
+    dept. of computer sci and engineering, indian institute of technology, kanpur, up, 208016, india
+    electrical engineering department, indian institute of technology - madras, chennai, india
+    indian institute of technology, mumbai, india
+    department of electrical engineering, indian institute of technology, kharagpur, west bengal, india
+    department of electrical engineering, indian institute of technology, new delhi, india
+    department of civil engineering, indian institute of technology, new delhi, india
+    department of humanities and social sciences, indian institute of technology, kanpur, india
+Indian Institute of Technology Kanpur IND
+    indian institute of technology kanpur, energy analytics lab (eal), kanpur, india
+    department of cse, indian institute of technology kanpur, kanpur, india
+    department of electrical engineering, indian institute of technology kanpur, kanpur, india
+Information Technology and Communication Company CHN
+    information technology and communication company, nari group corporation, nanjing, china
+Institut Du Developpement Durable Et Des Relations Internationales FRA
+    institut du developpement durable et des relations internationales (iddri), 41 rue du four, paris, 75006, france
+Institute Co CHN
+    guangdong power grid development research, institute co., ltd, china
+Institute Munster DEU
+    helmholtz-institute munster (hims), ionics in energy storage, germany
+Institute for Chemical and Bioengineering CHE
+    institute for chemical and bioengineering, department of chemistry and applied biosciences, eth zurich, hci e125, vladimir-prelog-weg 1, zurich, 8093, switzerland
+Institute for Energy and Transport European Commission NLD
+    energy systems evaluation unit, jrc-institute for energy and transport european commission, po box 2, petten, nl-1755 zg, netherlands
+Institute for Systems and Computer Engineering PRT
+    inesc tec, institute for systems and computer engineering, technology and science, porto, portugal
+Institute of Energy Technology CHE
+    reliability and risk engineering laboratory, institute of energy technology, department of mechanical and process engineering, eth zurich, zurich, 8092, switzerland
+Institute of Engineers IND
+    institute of engineers, india
+Institute of Power Systems and Power Economics Rwth Aachen University DEU
+    institute of power systems and power economics rwth aachen university, aachen, germany
+Institute of Solar Research DEU
+    german aerospace center (dlr), institute of solar research, wankelstrasse 5, stuttgart, 70563, germany
+    german aerospace center (dlr), institute of solar research, linder hohe, cologne, 51147, germany
+    institute of solar research, german aerospace center (dlr), wankelstrasse 5, stuttgart, 70563, germany
+    institute of solar research, german aerospace center (dlr), linder hohe, cologne, 51147, germany
+Instituto Superior Tecnico PRT
+    instituto superior tecnico, lisbon, portugal
+Instituto Superior de Engenharia PRT
+    instituto superior de engenharia, lisbon, portugal
+Instituto Superior de Engenharia de Coimbra PRT
+    departamento de engenharia electrotecnica, instituto superior de engenharia de coimbra, instituto politecnico de coimbra, rua pedro nunes, 3030-199 coimbra, portugal
+Instituto de Investigaciones Electricas MEX
+    instituto de investigaciones electricas, mexico
+Institutos Lactec BRA
+    department of power systems, institutos lactec, curitiba, brazil
+International Centre for Applied Climate Science AUS
+    school of agricultural computational and environmental sciences, international centre for applied climate science, institute of agriculture and the environment, university of southern queensland, springfield, 4300, australia
+International Cooperation Division of Petrochina Southwest Oil  and  Gas Field Company CHN
+    international cooperation division of petrochina southwest oil & gas field company, chengdu, sichuan  610051, china
+International Institute for Applied Systems Analysis AUT
+    energy program, international institute for applied systems analysis (iiasa), austria
+International Islamic University PAK
+    department of electrical engineering, international islamic university, islamabad, pakistan
+International Research Center for Science and Technology IRN
+    international research center for science and technology, mahan, iran
+International Research Laboratory of Computer Technologies RUS
+    international research laboratory of computer technologies, itmo university, st. petersburgh, 197101, russian federation
+Iqra National University PAK
+    iqra national university, department of computer science, peshawar, pakistan
+Ird Corporation USA
+    ird corporation, united states
+Islamic Azad University IRN
+    young researchers and elite club, khomeinishahr branch, islamic azad university, isfahan, iran
+    department of electrical engineering, lahijan branch, islamic azad university, lahijan guilan, iran
+    faculty of engineering, science and research branch, islamic azad university, tehran, iran
+Isparta University of Applied Sciences TUR
+    department of mechatronics engineering, isparta university of applied sciences, isparta, turkey
+    department of energy system engineering, isparta university of applied sciences, isparta, turkey
+Istanbul Technical University TUR
+    management engineering department, istanbul technical university, besiktas, istanbul, 34367, turkey
+    industrial engineering, istanbul technical university, macka, istanbul, turkey
+Italian National Agency for New Technologies ITA
+    enea - italian national agency for new technologies, energy and sustainable economic development, rome, italy
+Jadavpur University IND
+    department of computer science and engineering, jadavpur university, kolkata, 700032, india
+Jeju National University KOR
+    department of computer engineering, jeju national university, jeju-si, 63243, south korea
+    department of computer education, teachers college, jeju national university, jeju city, 63243, south korea
+Jiangsu University CHN
+    energy development and environmental protection strategy research center, jiangsu university, zhenjiang, jiangsu  212013, china
+    college of economics and management, jiangsu university of science and technology, zhenjiang, 212003, china
+Jiangxi University of Science and Technology CHN
+    school of electrical engineering and automation, jiangxi university of science and technology, ganzhou, china
+    school of electrical engineering and automation, jiangxi university of science and technology, ganzhou, 341000, china
+Johns Hopkins University USA
+    johns hopkins university, baltimore, united states
+Josip Juraj Strossmayer University of Osijek HRV
+    faculty of electrical engineering computer science and information technology osijek, josip juraj strossmayer university of osijek, osijek, croatia
+Kalyani Government Engineering College IND
+    electrical engineering department, kalyani government engineering college, kalyani, w. b, west bengal  741235, india
+    electrical engineering department, kalyani government engineering college, nadiawest bengal, india
+Kansas State University USA
+    department of electrical and computer engineering, kansas state university, manhattan, ks 66506, united states
+    kansas state university, 261 rathbone hall, manhattan, ks  66506, united states
+Karlsruhe Institute of Technology DEU
+    karlsruhe institute of technology, kaiserstr. 12, karlsruhe, 76131, germany
+Karlstad University SWE
+    department of mathematics and computer science, karlstad university, karlstad, 651 88, sweden
+Katholieke Universiteit Leuven BEL
+    accounting, finance and insurance, katholieke universiteit leuven, korte nieuwstraat 33, antwerp, 2000, belgium
+    katholieke universiteit leuven, korte nieuwstraat 33, antwerp, 2000, belgium
+Kazan State Power Engineering University RUS
+    kazan state power engineering university, kazan, russian federation
+Kepco Research Institute KOR
+    kepco research institute, 105, munji-ro, yuseong-gu, daejeon, 34056, south korea
+Kg Institute of Engineering and Technology IND
+    kg institute of engineering and technology, darapur-amravati, india
+Khwaja Fareed University of Engineering and Information Technology PAK
+    department of civil engineering, khwaja fareed university of engineering and information technology, pakistan
+Kiit University IND
+    school of electrical engineering, kiit university, bhubaneswar, india
+King Abdul Aziz University SAU
+    department of it, faculty of computing and it, king abdul aziz university, jeddah, saudi arabia
+Kings College London GBR
+    biomedical engineering department, king’s college london, london, se1 7eu, united kingdom
+    biomedical engineering department, king's college london, london, se1 7eu, united kingdom
+Korea Advanced Institute of Science and Technology KOR
+    department of nuclear and oquantum engineering, korea advanced institute of science and technology (kaist), 291 daehak-ro, yuseong-gu, daejeon, 34141, south korea
+    school of electrical engineering, korea advanced institute of science and technology, 291 daehak-ro, yuseong-gu, daejeon, 34141, south korea
+Korea Electric Power Research Institute KOR
+    korea electric power research institute (kepri), daejeon, south korea
+Korea Institute of Energy Research KOR
+    energy ict.ess laboratory, korea institute of energy research, 152 gajeong-ro, yuseong-gu, daejeon, 34129, south korea
+Korean National Police University KOR
+    department of public administration, korean national police university, 100-50 hwangsan-gil, sinchang-myeon, asan, chungcheongnam-do, 31539, south korea
+Kreiss Johnson Technologies USA
+    kreiss johnson technologies, inc., 1155 camino del mar, del mar, ca  92014, united states
+Krishna Engineering College IND
+    department of electrical engineering, krishna engineering college, ghaziabad, india
+Krishna Institute of Engg and Technology IND
+    krishna institute of engg. and technology, ghaziabad, u.p., india
+Kth Royal Institute of Technology SWE
+    department of electric power and energy systems, kth royal institute of technology, stockholm, sweden
+Kunming University of Science and Technology CHN
+    computer centre, kunming university of science and technology, kunming, 650501, china
+    electricity institute, kunming university of science and technology, kunming, 650501, china
+Kwangwoon University KOR
+    department of electronics and communication engineering, kwangwoon university, seoul, 01897, south korea
+Kyung Hee University KOR
+    dept. of environmental science and engineering, college of engineering, center for environmental studies, kyung hee university, seocheon-dong 1, giheung-gu, yongin-si, gyeonggi-do  446-701, south korea
+Kyushu University JPN
+    kyushu university, 744, motooka, nishi-ku, fukuoka, 819-0395, japan
+La Rochelle Business School FRA
+    la rochelle business school, excelia group, la rochelle, 17000, france
+Laboratoire Delectrotechnique de Grenoble FRA
+    laboratoire d'electrotechnique de grenoble, inpg, ensieg, 38402 saint martin d'heres cedex, france
+Lahmeyer International DEU
+    department of energy economics and planning, lahmeyer international, germany
+Lanzhou University CHN
+    school of information science and engineering, lanzhou university, lanzhou, china
+    network and communication center, lanzhou university, lanzhou, china
+Lawrence Berkeley National Laboratory USA
+    lawrence berkeley national laboratory, united states
+Lawrence Livermore National Laboratory USA
+    lawrence livermore national laboratory, united states
+Leiden University NLD
+    institute of public administration, leiden university, turfmarkt 99, den haag, dp  2511, netherlands
+Liege University BEL
+    liege university, montefiore institute, belgium
+Linkoping University SWE
+    department of management and engineering, linkoping university, linkoping, se-581 83, sweden
+Lithuanian Power Engineering Institute LTU
+    lithuanian power engineering institute, kaunas, lithuania
+Liverpool University CHN
+    department of electrical and electronic engineering, xi’an jiaotong-liverpool university, suzhou, 215123, china
+Los Alamos National Lab USA
+    theory division, los alamos national lab, los alamos, nm, united states
+Loughborough University GBR
+    ctr. renewable energy syst. technol., angela marmont renewable energy lab., loughborough university, leicestershire le11 3tu, united kingdom
+Louisiana Tech University USA
+    trenchless technology center, louisiana tech university, ruston, la  71270, united states
+Lucknow University IND
+    department of electrical engineering, faculty of engineering, lucknow university, lucknow, india
+Lut University FIN
+    lut university, school of energy systems, lappeenranta, finland
+    lut university, school of engineering science, lappeenranta, finland
+Malaviya National Institute of Technology IND
+    department of electrical engineering, malaviya national institute of technology, jaipur, 302017, india
+Marquette University USA
+    electrical engineering department, marquette university, milwaukee, wi, united states
+Massachusetts Institute of Technology USA
+    mit center for energy and environmental policy research, massachusetts institute of technology, cambridge, ma, united states
+    department of mechanical engineering, massachusetts institute of technology, cambridge, ma  02139, united states
+    tata center for technology and design, massachusetts institute of technology, united states
+Mcgill University CAN
+    department of electrical and computer engineering, mcgill university, montreal, qc, canada
+Mehran University of Engineering Technology PAK
+    mehran university of engineering technology (muet), institute of information communication technologies, jamshoro, pakistan
+Meidensha Corporation JPN
+    meidensha corporation, tokyo, 103-8515, japan
+Meiji University JPN
+    department of electrical and electronic engineering, school of science and technology, meiji university, kawasaki 214-8571, japan
+Metrology Center of Guangdong Power Grid Corporation CHN
+    metrology center of guangdong power grid corporation, guangzhou, guangdong province  510080, china
+Michigan State University USA
+    department of mechanical engineering, michigan state university, east lansing, mi  48824, united states
+Ministry of Education CHN
+    key laboratory of road construction technology and equipment, ministry of education, school of construction machinery, chang'an university, xi'an, 710064, china
+    key laboratory of control of power transmission and conversion, ministry of education, shanghai jiao tong university, minhang district, shanghai, 200240, china
+    key laboratory of process optimization and intelligent decision-making (hefei university of technology), ministry of education, hefei, anhui  230009, china
+    key laboratory of control of power transmission and conversion, shanghai jiao tong university, ministry of education, minhang district, shanghai, 200240, china
+    key laboratory of contemporary design and integrated manufacturing technology, ministry of education, northwestern polytechnical universityshaanxi  710072, china
+    institute of artificial intelligence and robotics (iair), key laboratory of traffic safety on track of ministry of education, school of traffic and transportation engineering, central south university, changsha, hunan  410075, china
+    key laboratory of process optimization and intelligent decision-making of ministry of education, hefei university of technology, hefei, 230009, china
+    key laboratory of process optimization and intelligent decision-making, ministry of education, hefei university of technology, hefei, 230009, china
+Ministry of Industry CHN
+    key laboratory of industrial engineering and intelligent manufacturing, ministry of industry and information technology, school of mechanical engineering, northwestern polytechnical university, xi'an, 710072, china
+Ministry of Natural Resources MWI
+    department of energy, ministry of natural resources, energy and mines of malawi, malawi
+Ministry of Water Resources CHN
+    science and technology promotion center, ministry of water resources, beijing, china
+Mississippi State University USA
+    department of electrical and computer engineering, mississippi state university, mississippi state, ms 39762, united states
+Mm Engineering College IND
+    electrical engineering department, m.m. engineering college, ambala, haryana, india
+Monash University AUS
+    dept. of electrical, computer systems engineering, monash university, australia
+    business and economic forecasting unit, monash university, clayton, vic 3800, australia
+Moscow State University of Civil Engineering RUS
+    moscow state university of civil engineering, 26, yaroslavskoye shosse, moscow, 129337, russian federation
+Motilal Nehru National Institute of Technology IND
+    department of electrical engineering, motilal nehru national institute of technology, allahabad, 211004, india
+Munzur University TUR
+    munzur university, department of computer engineering, tunceli, 62000, turkey
+    munzur university, graduate school of natural and applied science, tunceli, 62000, turkey
+    munzur university, department of industrial engineering, tunceli, 62000, turkey
+Nanjing Normal University CHN
+    school of mathematical science, nanjing normal university, nanjing, jiangsu  210042, china
+Nanjing Normal University Taizhou College CHN
+    department of mathematics, nanjing normal university taizhou college, taizhou, jiangsu  225300, china
+Nanjing University of Aeronautics and Astronautics CHN
+    research centre for soft energy science, nanjing university of aeronautics and astronautics, 29 yudao street, nanjing, 210016, china
+    college of economics and management, nanjing university of aeronautics and astronautics, nanjing, 211106, china
+Nanning Normal University CHN
+    nanning normal university, shiyuan college, nanning, china
+Nanyang Technological University SGP
+    school of civil and environmental engineering, nanyang technological university, singapore
+    energy research institute @ ntu, nanyang technological university, singapore, singapore
+    school of mechanical and aerospace engineering, nanyang technological university, 50 nanyang avenue639798, singapore
+    school of chemical and biomedical engineering, nanyang technological university, 62 nanyang drive637459, singapore
+Nari Group Corporation CHN
+    nari group corporation (state grid electric power research institute), nanjing, 211106, china
+    nari group corporation, (state grid electric power research institute), nanjing, 211106, china
+Nasa Langley Research Center USA
+    science directorate, nasa langley research center, mail stop 420, hampton, va 23681, united states
+National Changhua University of Education TWN
+    department of business administration, national changhua university of education, changhua, 50074, taiwan
+National Chi Nan University TWN
+    department of information management, national chi nan university, 1, university rd. puli, nantou, 545, taiwan
+National Defense University USA
+    college of information and cyberspace, national defense university, ft. lesley j. mcnair, washington, dc 20319-5066, united states
+National Engineering Laboratory for Electric Vehicles CHN
+    national engineering laboratory for electric vehicles, school of mechanical engineering, beijing institute of technology, beijing, 100081, china
+National Engineering School of Tunis TUN
+    national engineering school of tunis, bp 37, le belvedere tunis, 1002, tunisia
+    national engineering school of tunis, bp 37, le-belvedere-tunis, 1002, tunisia
+National Grid USA
+    national grid, hicksville, ny, united states
+National Hydroelectric Power Corporation Ltd IND
+    national hydroelectric power corporation ltd., faridabad, haryana, india
+National Institute of Advanced Industrial Science and Technology JPN
+    national institute of advanced industrial science and technology, tokyo, japan
+National Institute of Informatics JPN
+    national institute of informatics, tokyo, 100-0003, japan
+    national institute of informatics, tokyo, japan
+National Institute of Technology IND
+    national institute of technology, raipur, department of electrical engineering, raipur, india
+    national institute of technology, kurukshetr, haryana, india
+    electrical engineering department, national institute of technology, hamirpur, himachal pradesh, india
+    department of electrical engineering, national institute of technology, calicut, kerala, 673601, india
+    department of electrical and electronics engineering, national institute of technology, tiruchirappallli, tamil nadu, 620015, india
+    department of electrical engineering, national institute of technology, kurukshetra, haryana, india
+National Institute of Technology Rourkela IND
+    department of mechanical engineering, national institute of technology rourkela, rourkela, 769008, india
+National Pingtung University TWN
+    computer and intelligent robot program for bachelor degree, national pingtung university, pingtung, 90004, taiwan
+National Pingtung University of Science and Technology TWN
+    department of mechanical engineering, national pingtung university of science and technology, neipu, taiwan
+National Renewable Energy Laboratory USA
+    national renewable energy laboratory, 15013 denver west pkwy, golden, co  80401, united states
+    national wind technology center, national renewable energy laboratory, golden, co  80401, united states
+    power systems engineering center, national renewable energy laboratory, golden, co  80401, united states
+National Research Institute PRT
+    national research institute (lneg), estrada do paco do lumiar, 22, lisbon, 1649-038, portugal
+National Research Nuclear University Moscow Engineering Physics Institute RUS
+    national research nuclear university moscow engineering physics institute, moscow, 115409, russian federation
+National Research University Moscow Power Engineering Institute Nru Mpei RUS
+    national research university moscow power engineering institute nru mpei, russian federation
+National Research University Mpei RUS
+    national research university mpei, dept. control and informatics, moscow, russian federation
+National Research University RUS
+    smolensk branch of moscow power engineering institute, national research university, smolensk, russian federation
+National Taiwan University TWN
+    national taiwan university, department of biomechatronics engineering, taipei, taiwan
+    department of bioenvironmental systems engineering, national taiwan university, taipei, 10617, taiwan
+National Taiwan University of Science and Technology TWN
+    department of electronic and computer engineering, national taiwan university of science and technology, taiwan
+National Technical University of Athens GRC
+    school of electrical and computer engineering, national technical university of athens (ntua), athens, 15780, greece
+    institute of communication and computer systems, national technical university of athens (ntua), greece
+    faculty of electrical and computer engineering, national technical university of athens, athens gr-15780, greece
+    national technical university of athens, athens, gr 15773, greece
+    national technical university of athens, athens 15773, greece
+National Transmission and Dispatch Company PAK
+    national transmission and dispatch company, ntdc, multan, pakistan
+National University of Sciences and Technology PAK
+    uspcas-e, national university of sciences and technology, islamabad, pakistan
+National University of Singapore SGP
+    department of chemical and biomolecular engineering, national university of singapore, 4 engineering drive, singapore, 117585, singapore
+    department of computer science, national university of singapore, singapore, singapore
+    energy studies institute, national university of singapore, singapore
+National Yunlin University of Science and Technology TWN
+    future technology research center, national yunlin university of science and technology, 123 university road, section 3, douliou, yunlin, 64002, taiwan
+Natural Gas Economic Research Institute of Petrochina Southwest Oil  and  Gas Field Company CHN
+    natural gas economic research institute of petrochina southwest oil & gas field company, chengdu, sichuan  610051, china
+Nature Conservation Agency LVA
+    nature conservation agency, latvia
+Ned University of Engineering and Technology PAK
+    department of electrical engineering, ned university of engineering and technology, karachi, pakistan
+New Mexico Institute of Mining and Technology USA
+    department of management, new mexico institute of mining and technology, socorro, nm 87801, united states
+    department of computer science, new mexico institute of mining and technology, socorro, nm 87801, united states
+Newcastle University GBR
+    industrial statistics research unit, school of mathematics and statistics, newcastle university, herschel building, newcastle upon tyne, ne1 7ru, united kingdom
+North Carolina Association of Electric Cooperatives USA
+    north carolina association of electric cooperatives, raleigh, nc, united states
+North China Electric Power University CHN
+    north china electric power university, beijing, 102206, china
+    north china electric power university, school of electrical and electronic engineering, beijing, china
+    school of economics and management, north china electric power university, beijing, china
+    beijing key laboratory of new energy and low-carbon development, north china electric power university, beijing, china
+    department of electric power engineering, north china electric power university, baoding, hebei province  071003, china
+    school of electrical and electronic engineering, north china electric power university, beijing, 102206, china
+    school of economics and management, north china electric power university, beijing, 102206, china
+    state key laboratory of alternate electrical power system with renewable energy sources, north china electric power university, baoding, 071003, china
+    department of automation, north china electric power university, baoding, 071003, china
+    state key laboratory of alternate electrical power system with renewable energy sources, north china electric power university, beijing, 102206, china
+    north china electric power university, 102206, beijing, china
+Northeast Electric Power University CHN
+    northeast electric power university, jilin, china
+Northeastern University USA
+    dept. of mechanical and industrial engineering, northeastern university, 360 huntington avenue, boston, ma  02115, united states
+    dept. of electrical and computer engineering, northeastern university, 360 huntington avenue, boston, ma  02115, united states
+Northumbria University GBR
+    northumbria university, department of electrical engineering, newcastle, united kingdom
+Northwestern Polytechnical University CHN
+    research & development institute in shenzhen, northwestern polytechnical university, china
+    school of management, northwestern polytechnical university, xi'an, shanxi  710072, china
+Norwegian University of Science and Technology NOR
+    norwegian university of science and technology, department of industrial economics and technology management, alfred getz veg 3, 7491 trondheim, norway
+Nuva College Engineering and Technology IND
+    nuva college engineering and technology, electrical department, nagpur, india
+Office of Petrochina Southwest Oil  and  Gas Field Company CHN
+    office of petrochina southwest oil & gas field company, chengdu, sichuan  610051, china
+Oriental Institute of Technology TWN
+    department of information management, oriental institute of technology, panchiao, new taipei, taiwan
+Osaka Institute of Technology JPN
+    department of electronics, information and communication, faculty of engineering, osaka institute of technology, osaka, 535-8585, japan
+Osaka Sangyo University JPN
+    osaka sangyo university, osaka 574-0013, japan
+    department of electronics, information and communication engineering, osaka sangyo university, 3-1-1 nakagaito, daito, osaka, 574-0013, japan
+    osaka sangyo university, 3-1-1 nakagaito, daito, osaka, 574-0013, japan
+Ozyegin University TUR
+    ozyegin university, department of electrical electronics engineering, istanbul, turkey
+Pacific Northwest National Laboratory USA
+    pacific northwest national laboratory, washington, united states
+    pacific northwest national laboratory, united states
+    pacific northwest national laboratory, 902 battelle blvd, richmond, wa  99354, united states
+Pandit Deendayal Petroleum University IND
+    pandit deendayal petroleum university, ahmedabad, india
+Payame Noor University IRN
+    department of computer, payame noor university, tehran, 19305, iran
+Peking University CHN
+    school of economics, peking university, beijing, 100871, china
+Pingdingshan University CHN
+    school of mathematics & statistics, pingdingshan university, pingdingshan, 467000, china
+Policy and Energy Supply Department USA
+    janet phelps, puget sound energy, policy and energy supply department, bellevue, wa  98004, united states
+Politechnika Czȩstochowska POL
+    instytut elektroenergetyki, politechnika czȩstochowska, al. armii krajowej 17, 42-201 czȩstochowa, poland
+    politechnika czȩstochowska, wydzial elektryczny, zaklad urza̧dzen elektrycznych i gospodarki elektroenergetycznej, ul. armii krajowej 17, 42-200 czȩstochowa, poland
+Politechnika Opolska POL
+    instytut elektrowni i systemow pomiarowych, politechnika opolska, ul. sosnkowskiego 31, 45-272 opole, poland
+Politecnico Di Milano ITA
+    politecnico di milano, department of energy, milano, italy
+    deib, politecnico di milano, milan, italy
+    deng, politecnico di milano, milan, italy
+    politecnico di milano, dipartimento di energia, milan, italy
+    department of electronics and information, politecnico di milano, italy
+    department of energy, politecnico di milano, italy
+Politecnico Di Torino ITA
+    politecnico di torino, department of energy, torino, italy
+    department of electrical engineering, politecnico di torino, italy
+Polytechnic Institute of Brooklyn USA
+    polytechnic institute of brooklyn, new york, united states
+Polytechnic Institute of Porto PRT
+    polytechnic institute of porto, gecad research group, porto, portugal
+    gecad - knowledge engineering and decision support research center, ipp - polytechnic institute of porto, porto, portugal
+    gecad - knowledge engineering and decision-support research group, electrical engineering institute of porto, polytechnic institute of porto, rua dr. antonio bernardino de almeida, 431, 4200-072 porto, portugal
+Polytechnic of Porto PRT
+    polytechnic of porto (isep/ipp), gecad research group, porto, portugal
+    research group on intelligent engineering and computing for advanced innovation and development, institute of engineering, polytechnic of porto (isep/ipp), rua dr. antonio bernardino de almeida, 431, porto, 4200-072, portugal
+    research group on intelligent eng. and computing for advanced innovation and development (gecad), institute of engineering of the polytechnic of porto (isep/ipp), rua dr. antonio bernardino de almeida, 431, porto, 4200-072, portugal
+    gecad - knowledge engineering, decision support research center, ipp - polytechnic of porto, porto, portugal
+    gecad knowledge engineering and decision-support research center, institute of engineering, polytechnic of porto (isep/ipp), rua dr. antonio bernardino de almeida, 431, 4200-072 porto, portugal
+    gecad - knowledge engineering and decision support group, institute of engineering, polytechnic of porto, portugal
+Polytechnical Institute of Setubal PRT
+    estsetubal, polytechnical institute of setubal, inesc coimbra, setubal, portugal
+    estsetubal, polytechnical institute of setubal, uninova-cts, setubal, portugal
+Pontifical Catholic University of Rio de Janeiro BRA
+    pontifical catholic university of rio de janeiro, puc-rio, rio de janeiro, brazil
+Pontifical University Comillas ESP
+    institute de investigacion tecnologica (ht), escuela tecnica superior de ingenieria (icai), pontifical university comillas, madrid, spain
+Power Dispatching and Control Center CHN
+    power dispatching and control center, state grid corporation of china, xicheng district, beijing, 100031, china
+Power Exchange Center CHN
+    power exchange center, state grid jibei electric power co. ltd, beijing, china
+Power Research Institute of Guangdong Power Grid Co CHN
+    power research institute of guangdong power grid co., ltd., guangzhou, 510080, china
+Power Systems Operation Department JPN
+    power systems operation department, kansai electric power company, japan
+Powerchina Chengdu Engineering Corporation Limited CHN
+    powerchina chengdu engineering corporation limited, chengdu, china
+Prm Institute of Technology and Research IND
+    prm institute of technology and research, badnera-amravati, india
+Psl Universityparis FRA
+    inria, di ens, psl universityparis, france
+Purdue University USA
+    division of construction engineering and management, purdue university, west lafayette, in  47907, united states
+    school of civil engineering, purdue university, west lafayette, in  47907, united states
+    school of industrial engineering, division of environmental and ecological engineering, purdue university, west lafayette, in  47907, united states
+Putian College Engineering Training Centre CHN
+    putian college engineering training centre, putian, 351100, china
+Pye Laboratory AUS
+    pye laboratory, commonwealth scientific and industrial research organisation (csiro), gpo box 3023, clunies ross street, canberra, act  2601, australia
+Queens University Belfast GBR
+    school of mechanical and aerospace engineering, ashby building, queen's university belfast, stranmillis road, bt9 5ah, northern ireland, united kingdom
+Queens University of Belfast GBR
+    electric power and energy systems, sch. of elec./electron. engineering, queen's university of belfast, belfast bt9 5ah, united kingdom
+R and D Institute for Scientific Research And ROU
+    r and d institute for scientific research and, technological engineering for automation - ipa sa, bucharest, romania
+Rachna College of Engineering and Technology PAK
+    rachna college of engineering and technology, gujranwala, pakistan
+Renewable Energy Development Center Cder DZA
+    photovoltaic solar energy division, renewable energy development center cder, bouzareah, algeria
+Research Center for Information Technology DEU
+    fzi - research center for information technology, haid-und-neu-str. 10-14, karlsruhe, 76131, germany
+Research Institute Nr Electric Co Ltd CHN
+    research institute nr electric co. ltd, nanjing, china
+Research Institute of Economics and Technology CHN
+    research institute of economics and technology, global energy interconnection development and cooperation organization, beijing, china
+Research and Development Center CHN
+    research and development center, beijing qu creative technology co. ltd, qu randd center, beijing, china
+Research and Development Department DEU
+    research and development department, energenious company, berlin, germany
+Riga Technical University LVA
+    institute of power engineering, riga technical university, riga, latvia
+    institute of power engineering, riga technical university (rtu), riga, lv-1658, latvia
+Ritsumeikan University JPN
+    research organization of science and technology, ritsumeikan university, japan
+    graduate school of information science and engineering, ritsumeikan university, japan
+Rt Technologies Inc CAN
+    studies, modeling and specialized testing, opal-rt technologies inc., montreal, qc, canada
+Russian Academy of Science RUS
+    electric power systems department, melentiev energy systems institute, russian academy of sciences, irkutsk, russian federation
+    applied mathematics department, melentiev energy systems institute, russian academy of sciences, irkutsk, russian federation
+Rutgers University USA
+    department of industrial and systems engineering, rutgers university, piscataway, nj  08904, united states
+    department of civil and environmental engineering, rutgers university, piscataway, nj  08904, united states
+Rwth Aachen University DEU
+    chair of electrochemical energy conversion and storage systems, institute for power electronics and electrical drives (isea), rwth aachen university, germany
+    institute for power generation and storage systems (pgs), e.on erc, rwth aachen university, germany
+    rwth aachen university, institute of power systems and power economics, aachen, germany
+    institute for industrial management (fir), rwth aachen university, campus-boulevard 55, aachen, germany
+Samara State Technica University RUS
+    samara state technica university, samara, russian federation
+San Diego State University USA
+    department of electrical and computer engineering, san diego state university, san diego, ca  92182-1309, united states
+Sangmyung University KOR
+    department of computer science, sangmyung university, seoul, 03016, south korea
+    department of electrical engineering, sangmyung university, seoul, 03016, south korea
+    department of intelligent engineering information for human, institute of intelligent informatics technology, sangmyung university, seoul, 03016, south korea
+Sapienza University of Rome ITA
+    department of planning, design, and technology of architecture, sapienza university of rome, italy
+Sas Institute Inc USA
+    sas institute inc., cary, nc, united states
+School of Electrical Engineering Aalto University FIN
+    department of electrical engineering and automation, school of electrical engineering aalto university, espoo, 02150, finland
+School of Electrical Engineering CHN
+    school of electrical engineering, ncepu, 102206, beijing, china
+School of Electrical and Computer Engineering IRN
+    dept. of power and control engineering, school of electrical and computer engineering, shiraz univ., zand st., shiraz, fars, iran
+School of Mechanical Engineering Xian Jiaotong University CHN
+    school of mechanical engineering xi'an jiaotong university, no. 28 xianning west road, xi'an, shanxi  710049, china
+Semnan University IRN
+    semnan university, semnan, iran
+Shahid Bahonar University of Kerman IRN
+    department of electrical engineering, shahid bahonar university of kerman, kerman, iran
+Shandong Power Dispatching  and  Control Center CHN
+    shandong power dispatching & control center, shandong province, ji'nan, 250000, china
+Shanghai Jiao Tong University CHN
+    shanghai jiao tong university, department of electrical engineering, shanghai, china
+    school of electronic information and electrical engineering, shanghai jiao tong university, shanghai, 200240, china
+    department of electrical engineering, shanghai jiao tong university, shanghai, 200240, china
+    shanghai jiao tong university, shanghai, china
+Shanghai Jiaotong University CHN
+    department of electrical engineering, shanghai jiaotong university, shanghai, china
+Shanghai University of Electric Power CHN
+    college of economics and management, shanghai university of electric power, shanghai, 200090, china
+Sharif University of Technology IRN
+    independent researcher of sharif university of technology, tehran, iran
+    department of electrical engineering, sharif university of technology, tehran p.o. box 11365-11155, iran
+    center of excellence in power system control and management, electrical engineering department, sharif university of technology, tehran, iran
+    department of electrical engineering, sharif university of technology, azadi ave, tehran, iran
+Sichuan University CHN
+    college of water resource and hydropower, sichuan university, chengdu, china
+Siedlce University of Natural Sciences and Humanities POL
+    faculty of sciences, siedlce university of natural sciences and humanities, computer science institute, siedlce, poland
+Siemens Corporation USA
+    siemens corporation, princeton, nj, united states
+Simon Fraser University CAN
+    energy and materials research group (emrg), school of resource and environmental management, simon fraser university, burnaby, british columbia  v5a 1s6, canada
+Singapore Management University SGP
+    school of social sciences, singapore management university, 90 stamford road, level 4, singapore, 178903, singapore
+    school of information systems, singapore management university, singapore, 178902, singapore
+Slac National Accelerator Laboratory Menlo Parkca USA
+    grid integration systems and mobility group, slac national accelerator laboratory menlo parkca, united states
+Sofia University BGR
+    sofia university 'st. kliment ohridski', faculty of mathematics and informatics, bulgaria
+Soochow University CHN
+    institute of functional nano & soft materials (funsom), soochow university, 199 ren-ai road, suzhou, jiangsu  215123, china
+Soongsil University KOR
+    department of electrical engineering, soongsil university, seoul, south korea
+Southeast University CHN
+    college of electrical engineering, southeast university, nanjing, jiangsu province  210096, china
+    school of electrical engineering, southeast university, china
+Southern Illinois University Carbondale USA
+    department of geography and environmental resources, southern illinois university carbondale, carbondale, il  62901, united states
+    department of sociology, southern illinois university carbondale, carbondale, il  62901, united states
+Southern Technical University IRQ
+    management technical college, southern technical university, basrah, 61001, iraq
+Southwest Petroleum University CHN
+    state key laboratory of oil and gas reservoir geology and exploitation, southwest petroleum university, chengdu, 610500, china
+Southwest University of Science and Technology CHN
+    school of science, southwest university of science and technology, mianyang, 621010, china
+Srm University IND
+    department of information technology, faculty of engineering and technology, srm university, chennai, india
+Stanford Universityca  94305 USA
+    stanford smart grid lab, stanford universityca  94305, united states
+State Grid Corporation of China CHN
+    northeast branch, state grid corporation of china, shenyang, 110006, china
+    liaoning electric power co., ltd, state grid corporation of china, shenyang, 110006, china
+    state grid of china technology colleague, state grid corporation of china, jinan, china
+State Grid Electric Power Research Institute CHN
+    state grid electric power research institute, nanjing, china
+State Grid Energy Research Institute CHN
+    state grid energy research institute, beijing, 102209, china
+State Grid Energy Research Institute Coltd CHN
+    state grid energy research institute co.ltd, beijing, 100052, china
+State Grid Energy Research Institute Company Limited CHN
+    state grid energy research institute company limited, beijing, china
+State Grid Henan Electric Power Company Economic and Technological Research Institute CHN
+    state grid henan electric power company economic and technological research institute, zhengzhou, 450000, china
+State Grid Shanghai Shinan Electric Power Supply Company CHN
+    state grid shanghai shinan electric power supply company, shanghai, china
+State Grid Tianjin Economic Research Institute CHN
+    state grid tianjin economic research institute, tianjin, china
+State Grid Tianjin Electric Power Research Institute CHN
+    state grid tianjin electric power research institute, electric energy metering center, tianjin, china
+State Grid Zhejiang Electric Power Research Institute CHN
+    state grid zhejiang electric power research institute, hangzhou, 310014, china
+State Grid Zhejiang Power Economics and Technology Research Institute CHN
+    state grid zhejiang power economics and technology research institute, hangzhou, china
+State Grid Ziyang Power Supply Company CHN
+    state grid ziyang power supply company, sichuang, 641300, china
+State Key Laboratory of Smart Grid Protection and Control CHN
+    state key laboratory of smart grid protection and control, nanjing, 211106, china
+State Power Dispatch Control Center CHN
+    state power dispatch control center, beijing, 100031, china
+State Power Economic Research Center of China CHN
+    state power economic research center of china, beijing, china
+State University of Management RUS
+    state university of management, ryazanskiy avenue 99, moscow, russian federation
+Stevens Institute of Technology USA
+    school of business, stevens institute of technology, hoboken, nj, united states
+Sungkyunkwan University KOR
+    department of interaction science, sungkyunkwan university, seoul, south korea
+Taiwan Power Research Institute TWN
+    high voltage research laboratory, taiwan power research institute, new taipei, taiwan
+Taizhou Electric Power Supply Company CHN
+    state grid zhejiang electric power co., ltd., taizhou electric power supply company, taizhou, china
+Tamkang University TWN
+    department of water resources and environmental engineering, tamkang university, new taipei city, 25137, taiwan
+Tanap Natural Gas Transmission Company TUR
+    tanap natural gas transmission company, balikesir, turkey
+Tarbiat Modares University IRN
+    department of industrial engineering, tarbiat modares university, tehran, iran
+Technical University of Crete GRC
+    department of production engineering and management, technical university of crete, chania gr-73100, greece
+Technical University of Denmark DNK
+    centre for electric power and energy, technical university of denmark, kgs. lyngby, denmark
+    technical university of denmark, department of electrical engineering, energy system operation and management, denmark
+Technion—Israel Institute of Technology ISR
+    the andrew and erna viterbi faculty of electrical engineering, technion—israel institute of technology, haifa, 3200003, israel
+Technological Educational Institute of Thessaly GRC
+    dept. of electrical engineering, technological educational institute of thessaly, larisa, greece
+    department of electrical engineering, technological educational institute of thessaly, larisa, 41110, greece
+Tecip Institute ITA
+    scuola superiore sant'anna, tecip institute, via alamanni 13b, ghezzano, 56010 pisa, italy
+Teesside University GBR
+    school of science, engineering and design, teesside university, united kingdom
+Tennessee Technological University USA
+    fluid mechanics research laboratory, department of mechanical engineering, tennessee technological university, cookeville, tn  38505, united states
+Teradata Corporation USA
+    teradata corporation, united states
+Texas A and M University USA
+    department of geography, texas a&m university, college station, tx  77843, united states
+    department of electrical and computer engineering, texas aandm university, college station, tx  77843, united states
+    dep. of electrical and computer engineering, texas aandm university, college station, united states
+    texas a and m university, united states
+Texas Am University USA
+    texas am university, department of electrical and computer engineering, college station, united states
+Thapar University IND
+    department of computer science and engineering, thapar university, patiala (punjab), india
+    department of electrical and instrumentation engineering, thapar university, patiala (punjab), india
+The Alan Turing Institute GBR
+    the alan turing institute, the british library, london, nw12db, united kingdom
+    the alan turing institute, the british library, london, nw1 2db, united kingdom
+The Woolwich Centre GBR
+    the royal borough of greenwich, the woolwich centre, 35 wellington street, woolwich, se186hq, united kingdom
+Tianjin Electronic Information Vocational and Technical College CHN
+    department of economics and management, tianjin electronic information vocational and technical college, tianjin, 300350, china
+Tianjin University CHN
+    tianjin university, school of electrical automation and information engineering, tianjin, china
+Tianjin University of Finance and Economics CHN
+    tianjin university of finance and economics, complex network system and innovation research center, tianjin, 300022, china
+Ton Duc Thang University VNM
+    department for management of science and technology development, ton duc thang university, ho chi minh city, viet nam
+    faculty of information technology, ton duc thang university, ho chi minh city, viet nam
+Tongji University CHN
+    school of electronics and information engineering, tongji university, shanghai, 201804, china
+    education technology and computing center, tongji university, shanghai, 200092, china
+Tsinghua University CHN
+    tsinghua university, dept. automation, china
+    school of vehicle and mobility, tsinghua university, beijing, 100084, china
+    state key laboratory of control and simulation of power system and generation equipments, tsinghua university, haidian district, beijing, 100084, china
+    department of electrical engineering, state key laboratory of power systems, tsinghua university, beijing, 100084, china
+    tsinghua university, department of electrical engineering, china
+    tsinghua university, beijing, china
+    energy internet research institute, tsinghua university, beijing, 100084, china
+    department of industrial engineering, tsinghua university, beijing, 100084, china
+    department of electrical engineering, tsinghua university, beijing, 100084, china
+    energy environment and economy (3e) research institute, tsinghua university, beijing 100084, china
+Tsinghua University Energy CHN
+    tsinghua university energy, internet research institute, beijing, 100084, china
+Tsinghua University Energy Internet Research Institute CHN
+    tsinghua university energy internet research institute, beijing, china
+Ucl Energy Institute GBR
+    ucl energy institute, central house, 14 upper woburn place, london, wc1h 0nn, united kingdom
+Univ of Electron Sci and Technol CHN
+    univ. of electron. sci. and technol., chengdu 610054, china
+Universidad Carlos Iii de Madrid ESP
+    department of computer science, universidad carlos iii de madrid, madrid, 28911, spain
+Universidad Complutense ESP
+    escuela universitaria de estadistica, universidad complutense, 28040 madrid, spain
+Universidad Miguel Hernandez ESP
+    dept. of mechanic engineering and energy, universidad miguel hernandez, elche, spain
+Universidad Nacional de Colombia COL
+    electrical engineering department, universidad nacional de colombia, bogota, 110111, colombia
+    universidad nacional de colombia, colombia
+    department of electrical engineering, national university of colombia, colombia
+    computer science department, universidad nacional de colombia, carrera 80 no. 65-223 bloque m8a, medellin, colombia
+    escuela de sistemas, universidad nacional de colombia, carrera 80 no. 65-223 bloque m8a, medellin, colombia
+Universidad Politecnica Salesiana ECU
+    teacher researcher ht1, universidad politecnica salesiana, campus guayaquil, guayaquil, ecuador
+Universidad Politecnica de Cartagena ESP
+    department of information technologies and communications, universidad politecnica de cartagena, cartagena, 30202, spain
+    dept. electric engineering, universidad politecnica de cartagena, cartagena, spain
+    department of applied mathematics and statistics, universidad politecnica de cartagena, cartagena, 30202, spain
+    department of electrical engineering, universidad politecnica de cartagena, cartagena, 30202, spain
+Universidad Politecnica de Madrid ESP
+    statistical laboratory, escuela tecnica superior de ingenieros industriales, universidad politecnica de madrid, c/ jose gutierrez abascal, 2, madrid, 28006, spain
+Universidad Pontificia Comillas ESP
+    icai school of engineering, universidad pontificia comillas, madrid, 28015, spain
+    school of engineering, universidad pontificia comillas, c/alberto aguilera, 23, 28015 madrid, spain
+Universidad Pontificia de Comillas ESP
+    instituto de investigacion tecnologica (iit), escuela tecnica superior de ingenieria (icai), universidad pontificia de comillas, 28015 madrid, spain
+Universidad de Antioquia COL
+    department of economics, faculty of economic science, university of antioquia, medellin, colombia
+    department of electrical engineering, faculty of engineering, university of antioquia, medellin, colombia
+Universidad de Castilla ESP
+    escuela tecnica superior de ingenieros industriales, universidad de castilla - la mancha, 13071 ciudad real, spain
+Universidad de Las Palmas de Gran Canaria ESP
+    instituto universitario siani, universidad de las palmas de gran canaria, gran canaria, canary islands  35017, spain
+Universidad de Oviedo ESP
+    dep. of electrical engineering, university of oviedo, campus de viesques, s/n33204, spain
+Universidad de Zaragoza ESP
+    electrical engineering department, university of zaragoza, zaragoza, 50018, spain
+    centro de investigacion de recursos y consumos energeticos (circe), universidad de zaragoza, centro politecnico superior, maria de luna, 3, 50018 zaragoza, spain
+Universidade Estadual do Sao Paulo BRA
+    dep. of electrical engineering, sao paulo state university-unesp, ilha solteira, brazil
+Universidade Federal do Abc (Ufabc) BRA
+    laboratorio de sistemas eletricos de potencia (labsep), centro de engenharia, modelagem e ciencias sociais aplicadas (cecs), universidade federal do abc (ufabc), rua santa adelia, 166, bangu, santo andre, sp, - cep 09210-170, brazil
+Universidade Federal do Rio de Janeiro BRA
+    federal university of rio de janeiro, cidade universitria, ieee coppe-electrical engineering program, rio de janeiro, rj21.945-970, brazil
+    cepel, universidade federal do rio de janeiro (ufrj), ilha cidade universitaria, 21941-971 rio de janeiro, brazil
+Universidade de Evora PRT
+    instituto superior de engenharia de lisboa, dep. de fisica, escola de ciencias e tecnologia, universidade de evora, portugal
+Universidade de Lisboa PRT
+    instituto dom luiz (idl), faculdade de ciencias, universidade de lisboa, lisboa, 1749-016, portugal
+    idmec, laeta, instituto superior tecnico, universidade de lisboa, dep. de fisica, escola de ciencias e tecnologia, universidade de evora, portugal
+Universidade de Sao Paulo BRA
+    department of electrical and computer engineering, university of sao paulo, sao paulo, 12652, brazil
+Universidade de Tras PRT
+    utad - universidade de tras-os-montes e alto douro, vila real, portugal
+    universidade de tras-os-montes e alto douro (utad), quinta de prados, vila real, 5000-801, portugal
+Universidade do Porto PRT
+    department of electrical and computer engineering, faculty of engineering, university of porto, porto, 4200-465, portugal
+    fep, faculty of economics, university of porto, porto, portugal
+    inesc tec, fep, faculty of economics, university of porto, porto, portugal
+    inesc porto and departamento de engenharia electrotecnica e computadores, faculdade de engenharia, universidade do porto, campus da feup, rua dr. roberto frias, 4200-465 porto, portugal
+Universita Degli ITA
+    universita degli, department of computer science, studi di milano, italy
+Universita Di Firenze ITA
+    dipartimento di ingegneria dell'informazione, universita di firenze, florence, italy
+Universitat Politecnica de Catalunya ESP
+    centre d'innovacio tecnologica en convertidors estatics i accionaments, departament d'enginyeria electrica, eu d'enginyeria tecnica industrial de barcelona, universitat politecnica de catalunya, barcelona, spain
+Universitat Zu Berlin DEU
+    school of business and economics, humboldt-universitat zu berlin, spandauer str. 1, berlin, 10178, germany
+    ladislaus von bortkiewicz department of statistics, school of business and economics, humboldt-universitat zu berlin, unter den linden 6, berlin, 10099, germany
+Universite Catholique de Louvain BEL
+    universite catholique de louvain, belgium
+    core, universite catholique de louvain, louvain la neuve, belgium
+Universite Degli Studi Di Palermo ITA
+    universite degli studi di palermo, dipartimento di energia ingegneria dell'informazione e modelli matematici, palermo, italy
+Universiti Brunei Darussalam BRN
+    universiti brunei darussalam, brunei darussalam
+Universiti Malaysia Kelantan MYS
+    pusat komputeran dan informatik, universiti malaysia kelantan, karung berkunci 36, pengkaan chepa, kota bharu, kelantan, 16100, malaysia
+Universiti Teknologi Malaysia MYS
+    department of electrical power engineering, faculty of electrical engineering, universiti teknologi malaysia (utm), skudai, johor  81310, malaysia
+    school of electrical engineering, universiti teknologi malaysia, skudai, malaysia
+Universiti Teknologi Mara MYS
+    faculty of electrical engineering, universiti teknologi mara, shah alam, malaysia
+University Berlin DEU
+    humboldt-university berlin, department of mathematics, 10099 berlin, germany
+    department of mathematics, humboldt-university berlin, germany
+University College Cork IRL
+    marei centre, environmental research institute, university college cork, cork, ireland
+    dept. of civil and environmental engineering, school of engineering, university college cork, college rd., cork, ireland
+    environmental research institute, university college cork, lee rd, cork, ireland
+    cork constraint computation center (4c), university college cork, western gateway building, cork, ireland
+University College Dublin IRL
+    school of computer science, university college dublin, belfield, dublin 4, ireland
+    energy institute, university college dublin, belfield, dublin 4, ireland
+    school of mechanical and materials engineering, university college dublin, belfield, dublin 4, ireland
+University College London GBR
+    ucl energy institute, the bartlett, university college london (ucl), central house, 14 upper woburn place, london, wc1h 0nn, united kingdom
+    ucl energy institute, university college london, united kingdom
+University Politehnica of Bucharest ROU
+    university politehnica of bucharest, faculty of power engineering, bucharest, romania
+    university politehnica of bucharest, faculty of automatic control and computer science, bucharest, romania
+University Rey Juan Carlos ESP
+    doctorate program in information technologies and communications, university rey juan carlos, c/ tulipan s/n, mostoles, 28933, spain
+    data science laboratory, university rey juan carlos, c/ tulipan s/n, mostoles, 28933, spain
+University of Aberdeen GBR
+    aberdeen centre for research in energy economics and finance, university of aberdeen, aberdeen, ab24 3qy, united kingdom
+University of Abertay Dundee GBR
+    division of engineering, school of computing and advanced technologies, university of abertay dundee, bell street, dundee, dd1 1hg, united kingdom
+University of Advanced Technology IRN
+    department of energy management and optimization, institute of science and high technology and environmental sciences graduate, university of advanced technology, kerman, iran
+University of Agder NOR
+    university of agder, faculty of engineering and science, kristiansand, norway
+University of Alberta CAN
+    electrical and computer engineering, university of alberta, edmonton, ab, canada
+    civil and environmental engineering, university of alberta, edmonton, ab, canada
+    mechanical engineering, university of alberta, edmonton, ab, canada
+    school of business, university of alberta, edmonton, ab, canada
+    department of electrical and computer engineering, university of alberta, edmonton, canada
+University of Applied Sciences DEU
+    university of applied sciences, osnabrueck lingen (ems), germany
+University of Arizona USA
+    department of nuclear engineering, university of arizona, tucson, az, 85721, united states
+University of Balearic Islands ESP
+    university of balearic islands, palma of majorca, spain
+University of Bath GBR
+    dept. of electron. and elec. eng., university of bath, bath, ba2 7ay, united kingdom
+University of Bayreuth DEU
+    fim research center, university of bayreuth, bayreuth, 95444, germany
+University of Beira Interior PRT
+    university of beira interior, covilha, portugal
+    department of electromechanical engineering, university of beira interior, r. fonte do lameiro, 6200-001 covilha, portugal
+University of Belgrade SRB
+    power systems department university of belgrade, school of electrical engineering, belgrade, serbia
+    vinca institute of nuclear science, university of belgrade, belgrade, serbia
+University of Birjand IRN
+    department of electrical power ieee engineering, university of birjand, birjand, iran
+University of Birmingham GBR
+    school of computer science, university of birmingham edgbaston, birmingham, b15 2tt, united kingdom
+    university of birmingham, united kingdom
+University of Bristol Law School GBR
+    university of bristol law school, 8-10 berkeley square, bristol, bs8 1hh, united kingdom
+University of Cagliari ITA
+    department of electrical and electronic engineering, university of cagliari, cagliari, 109123, italy
+University of Calcutta IND
+    department of applied physics, university of calcutta, kolkata, india
+University of Calgary CAN
+    dept. of electrical engineering, university of calgary, canada
+University of California USA
+    university of california, riverside department of electrical and computer engineering, riverside, ca  92521, united states
+    department of mechanical and aerospace engineering, jacobs school of engineering, university of california, san diego, ca 92093, united states
+University of Cambridge GBR
+    department of chemical engineering and biotechnology, university of cambridge, pembroke street, cambridge, cb2 3ra, united kingdom
+University of Central Florida USA
+    industrial engineering & management systems department, university of central florida, orlando, fl  32816, united states
+University of Chicago USA
+    university of chicago, chicago, united states
+University of Chicago and Argonne National Lab USA
+    university of chicago and argonne national lab, chicago, united states
+University of Coimbra PRT
+    department of electrical engineering, fctuc/inesc, university of coimbra, coimbra, portugal
+University of Colendro Denver USA
+    dept. of electrical engineering, university of colendro denver, united states
+    dept. of mathematical and statistical sciences, university of colendro denver, united states
+University of Constantine 1 DZA
+    laboratoire de genie electrique de constantine (lgec), department of electrical engineering, university of constantine 1, algeria
+University of Cyprus CYP
+    kios research center for intelligent systems and networks, department of electrical and computer engineering, university of cyprus, nicosia, cyprus
+University of Dayton USA
+    department of mechanical and aerospace engineering/renewable and clean energy, school of engineering, university of dayton, 300 college park, dayton, oh  45409, united states
+    department of mechanical and aerospace engineering/renewable and clean energy, building energy center, university of dayton, 300 college park dr. kettering labs, room 345g, dayton, oh  45469-0238, united states
+    department of physics and renewable and clean energy program, hanley sustainability institute, university of dayton, science center 25 and fitz hall 665, dayton, oh  45469-2314, united states
+    department of computer science, the university of dayton, 300 college park, dayton, oh  45469-2160, united states
+University of Denver USA
+    university of denver, denver, co, united states
+University of Dortmund DEU
+    institute of electric energy systems, university of dortmund, 44221 dortmund, germany
+University of Duisburg DEU
+    university of duisburg-essen, altenessenerstr. 27, essen, 45141, germany
+University of Electronic Science and Technology of China CHN
+    school of computer engineering, university of electronic science and technology of china, zhongshan institute, zhongshan, china
+University of Engineering and Technology PAK
+    department of computer science and information technology, university of engineering and technology, peshawar, pakistan
+    university of engineering and technology, mardan, 23200, pakistan
+    department of computer system engineering, university of engineering and technology, peshawar, 25000, pakistan
+University of Fiji FJI
+    school of science and technology, university of fiji, queens rd, saweni, lautoka, fiji
+University of Florida USA
+    electrical engineering department, university of florida, gainesville, fl  32601, united states
+    department of industrial engineering, university of florida, gainesville, united states
+University of Geosciences CHN
+    mineral resource strategy and policy research center, university of geosciences, wuhan, 430074, china
+University of Glasgow GBR
+    university of glasgow, division of systems, power energy, glasgow, united kingdom
+    school of engineering, university of glasgow, university avenue, glasgow, united kingdom
+University of Gottingen DEU
+    department of production and logistics, university of gottingen, gottingen, germany
+University of Groningen NLD
+    faculty of economics and business, university of groningen, groningen, 9700 av, netherlands
+    university of groningen, faculty of economics and business, groningen, netherlands
+University of Guilan IRN
+    department of electrical engineering, faculty of engineering, university of guilan, rasht, iran
+University of Hertfordshire GBR
+    school of engineering and technology, university of hertfordshire, hatfield, united kingdom
+University of Hohai CHN
+    dept. of electrical engineering, university of hohai, china
+University of Hong Kong CHN
+    department of electrical and electronic engineering, the university of hong kong, hong kong
+    university of hong kong, hong kong, hong kong
+University of Ibadan NGA
+    security, privacy, and communication (spcom) research group, department of electrical and electronic engineering, university of ibadan, ibadan, nigeria
+University of Illinois USA
+    department of mechanical science and engineering, university of illinois at urbana-champaign, urbana, il  61801, united states
+    department of finance, university of illinois at chicago, united states
+    university of illinois at chicago, chicago, il  60607, united states
+    department of electrical and computer engineering, university of illinois at urbana-champaign, urbana, il 61801, united states
+University of Ilorin NGA
+    department of electrical and electronics engineering, faculty of engineering, university of ilorin, pmb 1515, ilorin, nigeria
+University of Jordan JOR
+    the university of jordan, amman, 11942, jordan
+University of Kashan IRN
+    faculty of electrical and computer engineering, university of kashan, kashan, iran
+    department of electrical engineering, university of kashan, kashan, iran
+University of Kufa IRQ
+    faculty of electrical engineering, university of kufa, kufa, iraq
+University of Leipzig DEU
+    institute for infrastructure and resources management, energy management and sustainability, university of leipzig, grimmaische strasse 12, leipzig, germany
+University of Leuven BEL
+    faculty of engineering science, university of leuven, belgium, belgium
+    department of electrical engineering, university of leuven, leuven, 3001, belgium
+    university of leuven, department of electrical engineering, leuven, belgium
+University of Leuven Electrical Engineering and Energyville BEL
+    university of leuven electrical engineering and energyville, leuven, belgium
+University of Ljubljana SVN
+    holding slovenske elektrarne & school of economics and business, university of ljubljana, koprska ulica 92, ljubljana, 1000, slovenia
+    school of economics and business, university of ljubljana & institute for economic research, kardeljeva ploscad 17, ljubljana, 1000, slovenia
+    school of economics and business, university of ljubljana, kardeljeva ploscad 17, ljubljana, 1000, slovenia
+University of Macau CHN
+    state key laboratory of internet of things for smart city and department of electrical, computer engineering, university of macau, macao, 999078, china
+    state key laboratory of internet of things for smart city, department of electrical and computer engineering, university of macau, macao999078, china
+University of Malaga ESP
+    research group oasys, university of malaga, malaga, spain
+University of Malaya MYS
+    power electronics and renewable energy research laboratory (pearl), department of electrical engineering, university of malaya, kuala lumpur, malaysia
+University of Manchester GBR
+    school of electrical and electronic engineering, faculty of engineering and physical sciences, electrical energy and power systems group, university of manchester, ferranti building, manchester, m13 9pl, united kingdom
+University of Maribor SVN
+    faculty of natural sciences and mathematics, university of maribor, koroska cesta 160, maribor, si-2000, slovenia
+    faculty of education, university of maribor, koroska cesta 160, maribor, si-2000, slovenia
+    faculty of energy technology, university of maribor, hocevarjev trg 1, krsko, si-8270, slovenia
+    faculty of medicine, university of maribor, taborska 8, maribor, si-2000, slovenia
+    faculty of electrical engineering and computer science, university of maribor, maribor, si-2000, slovenia
+University of Maryland USA
+    department of chemical and nuclear engineering, the university of maryland, college park, md 20742, united states
+University of Michigan USA
+    department of electrical and computer engineering, university of michigan, dearborn, united states
+    department of electrical and computer engineering, university of michigan-dearborn, united states
+University of Moratuwa LKA
+    department of electrical engineering, university of moratuwa, moratuwa, sri lanka
+University of Munich DEU
+    tum software engineering for business information systems, department of informatics, technical university of munich, munich, germany
+    tum school of management, technical university of munich, munich, germany
+    tum center for energy markets, tum school of management, technical university of munich, munich, germany
+University of New Brunswick CAN
+    department of electrical engineering, university of new brunswick, fredericton, nb e3b 5a3, canada
+University of New South Wales AUS
+    school of electrical engineering and telecommunications, university of new south wales, sydney, australia
+University of North Carolina USA
+    university of north carolina, charlotte, nc, united states
+University of North Dakota USA
+    department of electrical engineering, university of north dakota, grand forks, nd, united states
+University of Notre Dame USA
+    department of civil and environmental engineering and earth sciences, university of notre dame, notre dame, in, united states
+University of Nottingham MYS
+    department of chemical and environmental engineering, university of nottingham malaysia campus, jalan broga, semenyihselangor  43500, malaysia
+    department of electrical and electronic engineering, faculty of engineering, university of nottingham, malaysia campus, malaysia
+    foundation in engineering, university of nottingham, malaysia campus, malaysia
+University of Oldenburg DEU
+    institute for chemistry and biology of marine environment, university of oldenburg, oldenburg, germany
+University of Oslo NOR
+    department of geosciences, university of oslo, p.o. box 1047 blindern, oslo, n-0316, norway
+University of Oulu FIN
+    martti ahtisaari institute, university of oulu, oulu, 90014, finland
+    water, energy and environmental engineering research unit, faculty of technology, university of oulu, oulu, 90014, finland
+    university of oulu, p.o. box 4610fi-90014, finland
+University of Oxford GBR
+    oxford e-research centre, university of oxford, 7 keble road, oxford ox1 3qg, united kingdom
+University of Padua ITA
+    department of mathematics, university of padua, padua, italy
+University of Palermo ITA
+    department of energy, information engineering and mathematical models (deim), university of palermo, palermo, italy
+University of Passau DEU
+    university of passau, computer networks and communications group, innstraße 43, passau, 94032, germany
+University of Pisa ITA
+    university of pisa, department of energy, systems, territory and constructions engineering, pisa, italy
+University of Pitesti ROU
+    university of pitesti, dept. electronics, communications and computers, pitesti, romania
+University of Podlsie POL
+    university of podlsie, sienkiewicza, no 51, 08-110 siedlce, poland
+University of Pretoria ZAF
+    centre for new energy systems (cnes), department of electrical, electronic and computer engineering, university of pretoria, south africa
+    department of industrial and systems engineering, university of pretoria, south africa
+    department of electrical, electronics and computer engineering, university of pretoria, south africa
+    centre of new energy systems, department of electrical, university of pretoria, pretoria 0002, south africa
+University of Queensland AUS
+    power and energy system group, school of information technology and electrical engineering, university of queensland, brisbane, qld  4072, australia
+    school of information technology and electrical engineering, university of queensland, brisbane 4072, australia
+University of Roorkee IND
+    department of electrical engineering, university of roorkee, roorkee, uttar pradesh, india
+University of Salamanca ESP
+    university of salamanca. edificio i+d+i, calle espejo 2, bisite research group, salamanca, 37007, spain
+    bioinformatics, intelligent systems and educational technology (bisite) research centre, university of salamanca, calle espejo, s/n, salamanca, 37007, spain
+University of Sannio ITA
+    university of sannio, department of engineering (ding), piazza roma, 21, benevento, 82100, italy
+University of Saskatchewan CAN
+    department of electrical and computer engineering, university of saskatchewan, saskatoon, sk  s7n 5a9, canada
+University of Seville ESP
+    department of industrial management, school of engineering, university of seville, seville, 41092, spain
+University of Sousse TUN
+    advanced systems in electrical engineering, national engineering school of sousse, university of sousse, bp 264, sousse erriadh, 4023, tunisia
+University of South Australia AUS
+    school of commerce, university of south australia, gpo box 2471, adelaide, sa  5001, australia
+University of South Florida USA
+    university of south florida, department of electrical engineering, tampa, united states
+University of Southern California USA
+    department of civil engineering, university of southern california, los angeles, ca  90089, united states
+    viterbi school of engineering, university of southern california, los angeles, ca  90089, united states
+University of Southern Queensland AUS
+    school of sciences, institute of life sciences and the environment, university of southern queensland, toowoomba, qld  4350, australia
+University of Split HRV
+    faculty of electrical engineering, mechanical engineering and naval architecture, university of split, croatia
+University of Stavanger NOR
+    department of energy and petroleum engineering, university of stavanger, stavanger, 4036, norway
+University of Strathclyde GBR
+    university of strathclyde, glasgow, united kingdom
+    department of electronic and electrical engineering, university of strathclyde, glasgow, united kingdom
+University of Sunderland GBR
+    faculty of engineering and advanced manufacturing, university of sunderland, sunderland, united kingdom
+University of Sydney AUS
+    school of electrical and information engineering, university of sydney, sydney, australia
+University of Tasmania AUS
+    school of social science & school of technology, environments & design, university of tasmania, churchill avenue, sandy bay, hobart, 7001, australia
+    school of technology, environments & design, university of tasmania, churchill avenue, sandy bay, hobart, 7001, australia
+    centre for renewable energy and power systems, university of tasmania, hobart, tas 7001, australia
+University of Technology AUS
+    faculty of health, engineering and science, victoria university of technology, footscray, vic, australia
+University of Technology CHN
+    key laboratory of computer integrated manufacturing system, guangdong university of technology, guangzhou, 510006, china
+    school of electrical engineering, xi'an university of technology, xi'an, 710048, china
+    state key laboratory of reliability and intelligence of electrical equipment, hebei university of technology, tianjin, 300130, china
+    key laboratory of electromagnetic field and electrical apparatus reliability of hebei province, hebei university of technology, tianjin, 300130, china
+    school of management, hefei university of technology, hefei, anhui  230009, china
+    school of electric power, south china university of technology, guangzhou, china
+    school of electric power, south china university of technology, guangzhou, 510640, china
+    college of economics and management, beijing university of technology, beijing, 100124, china
+    school of management, hefei university of technology, hefei, 230009, china
+    xi'an university of technology, xi'an 710048, china
+    department of civil and hydraulic engineering, dalian university of technology, dalian 116024, china
+    wuhan university of technology, wuhan 430071, hubei province, china
+University of Technology CYP
+    department of electrical engineering, computer engineering and informatics, cyprus university of technology, limassol, cyprus
+    faculty of engineering and technology, cyprus university of technology, limassol, cyprus
+    department of mechanical engineering and materials science and engineering, cyprus university of technology, cyprus
+University of Technology CZE
+    brno university of technology, institute of process engineering & netme centre, technicka 2896/2, brno, 616 69, czech republic
+University of Technology DEU
+    institute of electrical power and energy, darmstadt university of technology, darmstadt, germany
+University of Technology EST
+    department of software science, tallinn university of technology, akadeemia tee 15a, tallinn, 12618, estonia
+University of Technology FIN
+    school of business and management, lappeenranta university of technology, lappeenranta, fi-53851, finland
+University of Technology HUN
+    budapest university of technology and economics, department of electric power engineering, egry jozsef ut 18, budapest, 1111, hungary
+University of Technology IND
+    department of electrical engineering, madan mohan malaviya university of technology, gorakhpur, india
+    department of electronics and communication engineering, madan mohan malaviya university of technology, gorakhpur, india
+    m.m.m. university of technology, gorakhpur, uttar pradesh, india
+University of Technology IRN
+    amirkabir university of technology, tehran polytechnic, department of electrical engineering, tehran, iran
+    amirkabir university of technology, department of electrical engineering, tehran, iran
+    department of industrial engineering, urmia university of technology, urmia, west azerbaijan, iran
+    faculty of electrical engineering, k. n. toosi university of technology, tehran, iran
+    createch, ee, k.n. toosi university of technology, tehran, iran
+    faculty of ee, k.n.toosi university of technology, tehran, iran
+University of Technology IRQ
+    control and systems engineering department, university of technology, iraq
+University of Technology MYS
+    research centre for sustainable technologies, faculty of engineering, computing and science, swinburne university of technology, jalan simpang tiga, kuching, sarawak  93350, malaysia
+University of Technology NGA
+    department of petroleum engineering, federal university of technology, owerri, nigeria
+University of Technology NLD
+    delft center for systems and control, delft university of technology, mekelweg 2, delft, netherlands
+    faculty of technology policy and management, delft university of technology, delft, netherlands
+    delft university of technology, faculty of electrical engineering, mathematics, and computer science, dept. high voltage components and power systems, p.o. box 5031, 2600ga delft, netherlands
+University of Technology POL
+    czestochowa university of technology, faculty of electrical engineering, czestochowa, poland
+    czestochowa university of technology, faculty of management, czestochowa, poland
+    lodz university of technology, faculty of management and production engineering, lodz, 90924, poland
+    institute of social sciences and management of technologies, faculty of organization and management, lodz university of technology, lodz, poland
+    institute of control and computational engineering, warsaw university of technology, warsaw, poland
+    institute of production engineering, czestochowa university of technology, czestochowa, poland
+University of Technology SWE
+    srt, lulea university of technology, lulea, 97187, sweden
+    srt, lulea university of technology, sweden
+University of Technology VNM
+    ho chi minh city university of technology (hutech), ho chi minh city, viet nam
+University of Technology ZAF
+    department of electrical, electronic, and computer engineering, center for substation automation and energy management systems (csaems), cape peninsula university of technology, bellville, south africa
+University of Tehran IRN
+    smrl, cipce, ece, university of tehran, tehran, iran
+    smrl, cipce, school of ece, university of tehran, tehran, iran
+    graduate faculty of the environment, university of tehran, p.o. box 14155-6135, tehran, iran
+    smrl, cipce, school of ece, university of tehran, iran
+    snl/cipce, school of electrical and computer engineering, college of engineering, university of tehran, tehran, iran
+    department of industrial engineering, center of excellence for intelligent experimental mechanics, college of engineering, university of tehran, iran
+University of Texas USA
+    university of texas at austin, austin, tx, united states
+    university of texas, bureau of economic geology, united states
+    power and renewable energy systems (pres) lab., department of electrical and computer engineering, university of texas at el paso, el paso, tx  79968, united states
+    department of electrical and computer engineering, university of texas at el paso, el paso, tx  79968, united states
+    department of industrial, manufacturing and systems engineering, university of texas at el paso, el paso, tx  79968, united states
+    energy systems research center, university of texas, arlington, tx 76013, united states
+    energy systems research center, the university of texas at arlington, 416 s. college street, arlington, tx 76019, united states
+University of The Pacific USA
+    university of the pacific, stockton, ca, united states
+University of The Ryukyus JPN
+    department of electrical and electronics, university of the ryukyus, 1 senbaru, nagakami nishihara, okinawa, 903-0213, japan
+University of The West Indies TTO
+    university of the west indies, st. augustine, trinidad and tobago
+University of Thessaly GRC
+    department of electrical and computer engineering, university of thessaly, volos, 38221, greece
+University of Tokyo JPN
+    department of electrical engineering, university of tokyo, japan
+University of Toronto CAN
+    electrical engineering department, university of toronto, toronto, ont. m5s 3g4, canada
+University of Vaasa FIN
+    department of production, university of vaasa, vaasa, 65200, finland
+University of Victoria CAN
+    institute for integrated energy systems, university of victoria, canada
+University of Vigo ESP
+    dept. of electrical engineering, university of vigo, campus lagoas-marcosende, vigo, 36310, spain
+University of Washington USA
+    university of washington, seattle, wa, united states
+University of Waterloo CAN
+    department of mechanical and mechatronics engineering, university of waterloo, waterloo, ontario  n2l 3g1, canada
+    dept. of electrical and computer engineering, university of waterloo, waterloo, on  n2l 3g1, canada
+University of Wisconsin USA
+    department of computer sciences, university of wisconsin - madison, 1210 w. dayton st, madison, wi, united states
+University of Wollongong AUS
+    school of electrical, computer and telecommunications engineering, university of wollongong, wollongong, australia
+    school of computer science and software engineering, university of wollongong, wollongong, australia
+University of Wurzburg DEU
+    university of wurzburg, josef-stangl-platz 2, wurzburg, 97070, germany
+University of Zagazig EGY
+    department of electrical power and machines engineering, university of zagazig, zagazig, egypt
+University of Zagreb HRV
+    faculty of mechanical engineering and naval architecture, university of zagreb, zagreb, croatia
+    faculty of electrical engineering, university of zagreb, unska 3, 10 000, zagreb, croatia
+University of Zielona Gora POL
+    university of zielona gora, faculty of civil engineering, architecture and environmental engineering, licealna 9, zielona gora, 65-417, poland
+University of la Rioja ESP
+    electrical engineering department, university of la rioja, logrono, 26004, spain
+    department of mechanical engineering, university of la rioja, edificio departamental-c/luis de ulloa, logrono, la rioja, 20-26004, spain
+    department of electrical engineering, university of la rioja, edificio departamental-c/luis de ulloa, logrono, la rioja, 20-26004, spain
+    department of mechanical engineering, university of la rioja, edificio departamental, c/luis de ulloa 20, 26004 logrono, la rioja, spain
+    department of electrical engineering, university of la rioja, edificio departamental, c/luis de ulloa 20, 26004 logrono, la rioja, spain
+    department of mechanical engineering, university of la rioja, c/luis de ulloa 20, 26004 logrono, la-rioja, spain
+    department of electrical engineering, university of la rioja, c/luis de ulloa 20, 26004 logrono, la-rioja, spain
+Us Department of Energy USA
+    u.s. department of energy, 1000 independence ave, washington, dc  20585, united states
+Utrecht University NLD
+    copernicus institute of sustainable development, utrecht university, utrecht, 3584cb, netherlands
+Vale do Itajai University BRA
+    vale do itajai university - univali, santa catarina, brazil
+Ventspils University College LVA
+    ventspils university college, latvia
+Victoria University AUS
+    victoria university, sydney, australia
+Virginia Polytechnic Institute  and  State University USA
+    virginia polytechnic institute & state university, blacksburg, va, 24061-0111, united states
+Vtt Technical Research Centre of Finland FIN
+    vtt technical research centre of finland, p.o. box 1000, fi-02044 vtt, finland
+Wageningen University NLD
+    sub-department of environmental technology, wageningen university, wageningen, netherlands
+    biobased chemistry and technology, wageningen university, wageningen, netherlands
+Warsaw University of Life Sciences POL
+    department of informatics, faculty of applied informatics and mathematics, warsaw university of life sciences, nowoursynowska 159, warsaw, 02-787, poland
+Waseda University JPN
+    waseda university, tokyo 169-8555, japan
+Washington State University USA
+    school of electrical and computer science engineering, washington state university, pullman, wa  99164, united states
+    energy systems innovation center, school of electrical engineering and computer science, washington state university, pullman, wa, united states
+Waterford Institute of Technology IRL
+    telecommunications software and systems group, waterford institute of technology, waterford, ireland
+Western Macedonia University of Applied Sciences GRC
+    dept. of electrical engineering, western macedonia university of applied sciences, kozani, greece
+    department of electrical engineering, western macedonia university of applied sciences, kozani, 50100, greece
+Westphalia Univ of Appl Sci DEU
+    south-westphalia univ. of appl. sci., germany
+    department of automation engineering, soest campus, south-westphalia univ. of appl. sci., lubecker ring 2, d-59494 soest, germany
+Wroclaw University of Science and Technology POL
+    department of operations research and business intelligence, wroclaw university of science and technology, wroclaw, 50-370, poland
+Wuhan University CHN
+    school of electrical engineering and automation, wuhan university, wuhan, china
+    state key laboratory of water resources and hydropower engineering science, wuhan university, wuhan, 430072, china
+Xiamen University CHN
+    wang yanan institute for studies in economics, xiamen university, 422 siming road, xiamen, 361005, china
+Xian Jiaotong University CHN
+    xi'an jiaotong university, xi'an 710049, china
+Xian Shiyou University CHN
+    oil and gas field development engineering, xi’an shiyou university, china
+Xian University of Posts and Telecommunications CHN
+    school of modern post, xi'an university of posts and telecommunications, xi'an, 710061, china
+Yeh University TWN
+    school of management, da-yeh university, 112 shan-jiau road, da-tusen, changhua, 51505, taiwan
+Yonsei University KOR
+    department of chemical and biomolecular engineering, yonsei university, seodaemun-gu, seoul, 03722, south korea
+    school of electrical and electronic engineering, yonsei university, seoul, south korea
+York University ARE
+    division of engineering, new york university, abu dhabi, 129188, united arab emirates
+York University CAN
+    department of electrical engineering and computer science, york university, toronto, on  m3j 1p3, canada
+York University USA
+    center for urban science and progress & tandon school of engineering, new york university, 1 metrotech center, 19th floor, brooklyn, ny  11201, united states
+    center for urban science and progress, new york university, 1 metrotech center, 19th floor, brooklyn, ny  11201, united states
+Yunnan Normal University CHN
+    school of physics and electronic information, yunnan normal university, kunming , yunnan, 650500, china
+Zhejiang University CHN
+    huanan industrial technology research, institute zhejiang university, guangzhou, china
+    zhejiang university, school of electrical engineering, hangzhou, china
+    department of information engineering, zhejiang university of finance and economics, hangzhou, china
+    zhejiang university, hangzhou, china
+    school of electrical engineering, zhejiang university, hangzhou, 310027, china
+    department of electrical engineering, zhejiang university, hangzhou 310027, china
+Zhenjiang Power Supply Company CHN
+    zhenjiang power supply company, china
